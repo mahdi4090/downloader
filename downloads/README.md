@@ -2,6 +2,7 @@
 
 - [100MB](./100MB)
 - [releases](./releases)
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
 
 ---
 
